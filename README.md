@@ -1,4 +1,5 @@
 # 🧩 Excel to JSON Converter - Chrome Extension
+👉 [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/excel-to-json-converter/hbhehcbafpmmadmlojcpfgdeolllmpip?hl=en-US&utm_source=ext_sidebar)
 
 Convert your Excel (`.xls`, `.xlsx`) files to JSON instantly using this simple and intuitive Chrome Extension. No need to upload files to a server—everything happens locally in your browser.
 
@@ -20,13 +21,3 @@ Convert your Excel (`.xls`, `.xlsx`) files to JSON instantly using this simple a
 - 🧪 Powered by [SheetJS](https://sheetjs.com/)
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Try it Out
-
-👉 [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/excel-to-json-converter/hbhehcbafpmmadmlojcpfgdeolllmpip?hl=en-US&utm_source=ext_sidebar)
-
----
-
-More sections like **Installation (from source)** or **How it works** can be added depending on your needs. Let me know if you'd like those too!
